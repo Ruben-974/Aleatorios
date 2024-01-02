@@ -5,7 +5,7 @@ def fact(n):
         n -= 1
     return f
 
-p = 'vagabundagem'.upper()
+p = 'nos'.upper()
 letras = []
 for l in p:
     cont = p.count(l)
