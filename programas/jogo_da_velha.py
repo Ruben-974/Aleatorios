@@ -54,7 +54,6 @@ def choice(player, what):
 
         print('Enter only available numbers')
 
-
 positions = (1, 2, 3,
              4, 5, 6,
              7, 8, 9)
